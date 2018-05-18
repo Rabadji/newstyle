@@ -1,1 +1,1 @@
-newstyle
+friendlocator
