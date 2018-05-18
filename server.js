@@ -22,6 +22,8 @@ app.get('/about',function(req,res){
 });
 
 
+
+
 //#################change purchase
 app.post('/newstyle_page',function(req,res){
     purchase=req.body.page;
