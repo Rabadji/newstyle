@@ -5,7 +5,7 @@ html
 body
 {
     
-    background: url('./BG@2x.png') no-repeat center center fixed;
+    background: url('./BG2@2x.png') no-repeat center center fixed;
     -moz-background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -44,6 +44,15 @@ margin-top: 0%;
 margin-bottom: 10%;
 margin-left: 5%;
 margin-right: 5%;
+}.text2{
+    font-size:4vw;
+     text-align: center;
+  color:black;
+margin-top: 5%;
+margin-left: 5%;
+margin-bottom: 0%;
+
+margin-right: 5%;
 }
 
 div.listelem{
@@ -63,18 +72,18 @@ button:focus {
     border: none;
 }
 a:link {
-    color: #CD9DC8;
+    color: #491c4a;
 }
 
 /* visited link */
 a:visited {
-    color: #CD9DC8;
+    color: #491c4a;
     color: CD9DC8;
 }
 
 /* mouse over link */
 a:hover {
-    color: #CD9DC8;
+    color: #491c4a;
  
 }
 
